@@ -8,7 +8,6 @@ if you need to resize images on all operating systems have a look at:
 
 [![NPM version][npm-image]][npm-url]
 [![Linux Build Status][travis-image]][travis-url]
-[![Windows Build Status][appveyor-image]][appveyor-url]
 [![Coverage Status][coveralls-image]][coveralls-url]
 [![Greenkeeper badge][greenkeeper-image]][greenkeeper-url]
 
@@ -41,8 +40,6 @@ imagemin(input, output, {
 [npm-url]: https://www.npmjs.com/package/jaeh/imagemin-sharp
 [travis-image]: https://api.travis-ci.org/jaeh/imagemin-sharp.svg?branch=master
 [travis-url]: https://travis-ci.org/jaeh/imagemin-sharp
-[appveyor-image]: https://img.shields.io/appveyor/ci/jaeh/imagemin-sharp/master.svg
-[appveyor-url]: https://ci.appveyor.com/project/jaeh/imagemin-sharp/branch/master
 [coveralls-image]: https://coveralls.io/repos/github/jaeh/imagemin-sharp/badge.svg
 [coveralls-url]: https://coveralls.io/github/jaeh/imagemin-sharp
 [greenkeeper-image]: https://badges.greenkeeper.io/jaeh/imagemin-sharp.svg
