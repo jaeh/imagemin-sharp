@@ -13,7 +13,7 @@
     "sharp": "0.21.2"
   },
   "engines": {
-    "node": ">=6"
+    "node": ">=8"
   },
   "devDependencies": {
     "@magic/test": "0.0.2"
