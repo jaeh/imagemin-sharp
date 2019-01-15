@@ -1,0 +1,31 @@
+{
+  "name": "imagemin-sharp",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/jaeh/imagemin-sharp"
+  },
+  "author": "Jascha Ehrenreich <jascha@jaeh.at>",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "0.21.2"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "devDependencies": {
+    "@magic/test": "0.0.2"
+  },
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "start": "t -p",
+    "test": "t",
+    "format": "f -w",
+    "format:check": "f",
+    "calls": "calls"
+  }
+}
